@@ -60,7 +60,7 @@
     "test": "jest --coverage",
     "start": "webpack serve --config webpack.start.js",
     "build": "webpack",
-    "postinstall ": "echo 1234567890"
+    "prepare ": "echo 1234567890"
   },
   "keywords": [
     "editor",
